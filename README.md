@@ -20,7 +20,7 @@ For run migrate table:
 
 ```
 ./node_modules/.bin/node-pg-migrate up
-
+```
 ### Run
 ```
 node server.js
